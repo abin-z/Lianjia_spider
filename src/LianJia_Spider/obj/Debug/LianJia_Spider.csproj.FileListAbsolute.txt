@@ -1,0 +1,17 @@
+F:\链家Spider\LianJia_Spider\LianJia_Spider\bin\Debug\LianJia_Spider.exe.config
+F:\链家Spider\LianJia_Spider\LianJia_Spider\bin\Debug\LianJia_Spider.exe
+F:\链家Spider\LianJia_Spider\LianJia_Spider\bin\Debug\LianJia_Spider.pdb
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.Properties.Resources.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.csproj.GenerateResource.cache
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.csproj.CoreCompileInputs.cache
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.exe
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.pdb
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.Form_Main.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.csprojAssemblyReference.cache
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_home.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_new.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_running.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_completed.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_about.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.childForm_settings.resources
+F:\链家Spider\LianJia_Spider\LianJia_Spider\obj\Debug\LianJia_Spider.csproj.CopyComplete
