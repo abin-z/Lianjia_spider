@@ -25,7 +25,7 @@ IDE：visual studio 2017
 #### 运行截图
 
 主界面
-![输入图片说明](https://gitee.com/abin_z/lianjia_spider/raw/master/img/page1.png "首页")
+![输入图片说明](https://github.com/abin-z/Lianjia_spider/blob/3e70b1d52305c0f2ada8f52ff64aadb6e975f2d3/src/img/page1.png)
 
 创建任务界面
 ![输入图片说明](https://gitee.com/abin_z/lianjia_spider/raw/master/img/page2.png "创建任务")
